@@ -1,0 +1,14 @@
+# dependencies & build output
+node_modules/
+dist/
+*.tsbuildinfo
+coverage/
+
+# secrets: never commit real env files, only the example
+.env
+.env.*
+!.env.example
+
+# logs & editor
+*.log
+.vscode/
