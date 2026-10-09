@@ -1,3 +1,5 @@
+![CI](https://github.com/Violineering/inventory-api/actions/workflows/ci.yml/badge.svg)
+
 # inventory-api
 
 Inventory system backend API build using NestJS
